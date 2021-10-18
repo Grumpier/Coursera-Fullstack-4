@@ -9,8 +9,12 @@ body {
 
 h1 {
   margin-bottom: 15px;
-  font-size: 175%;
+  font-size: 1.75em;
   font-weight: bold;
+}
+
+title {
+  font-size: 1.25em;  
 }
 
 p {
